@@ -2,7 +2,7 @@
 
 A portfolio to display my software applications.
 
-**Link to project: [Live-demo]https://jscorz-portfolio.netlify.app**
+**Link to project: [Live-demo]https://www.justinscorzafava.com**
 
 ![portfolio](src/assets/portfolio1.png)
 
