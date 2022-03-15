@@ -22,6 +22,6 @@ A portfolio to display my software applications.
 
 ---
 
-**Tech used:** HTML, CSS, Bootstrap, SASS, Jquery, Javascript
+**Tech used:** HTML, CSS, Bootstrap, Sass, Jquery, Javascript
 
-I had started the layout of the portfolio with a template. I made this decision so I could focus more time on projects. I customized it a bit further to personalize it.
+I implemented the layout of the portfolio with a template to begin with. I made this decision so I could focus more time on developing projects. I customized the portfolio a bit further to personalize it.
