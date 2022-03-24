@@ -8,11 +8,11 @@ A portfolio to display my software applications.
 
 ![portfolio2](src/assets/portfolio2.png)
 
+![portfolio5](src/assets/portfolio5.png)
+
 ![portfolio3](src/assets/portfolio3.png)
 
 ![portfolio4](src/assets/portfolio4.png)
-
-![portfolio5](src/assets/portfolio5.png)
 
 ![portfolio6](src/assets/portfolio6.png)
 
