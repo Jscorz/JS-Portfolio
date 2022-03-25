@@ -1,4 +1,4 @@
-# Portfolio for Justin Scorzafava
+# Portfolio | Justin Scorzafava
 
 A portfolio to display my software applications.
 
@@ -22,6 +22,6 @@ A portfolio to display my software applications.
 
 ---
 
-**Tech used:** HTML, CSS, Bootstrap, Sass, Jquery, Javascript
+**Tech used:** HTML, CSS, Bootstrap, Sass Preprocessor, Jquery, Javascript
 
 I implemented the layout of the portfolio with a template to begin with. I made this decision so I could focus more time on developing projects. I customized the portfolio a bit further to personalize it.
